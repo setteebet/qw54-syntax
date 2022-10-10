@@ -1,0 +1,18 @@
+{
+  "name": "qw54-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ตัวแทนลอตเตอรี่ออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ตัวแทนลอตเตอรี่ออนไลน์",
+"แทงหวยออนไลน์",
+"lottovip line",
+"สมัครเว็บแทงหวยฮานอย",
+"ดูสลากกินแบ่งรัฐบาลสด"
+],
+  "repository": "https://github.com/setteebet/qw54-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
